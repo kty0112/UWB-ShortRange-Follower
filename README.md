@@ -36,7 +36,7 @@ UWB-based precise short-range tracking system for autonomous agricultural robots
 
 ## ⚙️ 시스템 동작 흐름 (System Architecture)
 
-![시스템 아키텍처 다이어그램 이미지 링크를 여기에 삽입하세요]
+
 *(설명: 2:2 노드 배치 및 DS-TWR 통신 시퀀스 다이어그램)*
 
 1. **[Init_1]** Res_1, Res_2를 향해 순차적으로 POLL(IMU 탑재) 발사 및 RESP, FINAL 수신 (DS-TWR 완료)
